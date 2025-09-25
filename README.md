@@ -16,7 +16,7 @@
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-I'm a passionate **Software Engineer** at **Planful Softwares**, where I craft scalable backend solutions and refactor legacy systems. Currently pursuing my B.Tech in Computer Science with a stellar **8.87 CGPA**, I love turning complex problems into elegant code.
+I'm a passionate **Software Engineer** at **Planful Softwares**, where I craft scalable backend solutions and refactor legacy systems. Completed my B.Tech in Computer Science with a stellar **8.87 CGPA**, I love turning complex problems into elegant code.
 
 - 🔭 Currently working on **enterprise-grade RESTful APIs** using Spring Boot
 - 🌱 Exploring **microservices architecture** and **cloud technologies**

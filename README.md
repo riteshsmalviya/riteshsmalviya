@@ -55,7 +55,7 @@ I'm a passionate **Software Engineer** at **Planful**, where I craft scalable ba
 
 ## 💼 Professional Journey
 
-### 🏢 **Software Engineer** @ Planful Softwares
+### 🏢 **Software Engineer** @ Planful
 *January 2025 - Present | Hyderabad*
 
 - 🔧 **API Development**: Building robust RESTful APIs with Spring Boot
